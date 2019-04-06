@@ -1,2 +1,4 @@
-# image-classifier-flask
-Image Classifier from URL using Inception V3
+***
+[Deploying Flask API on Heroku for Image Classification](https://toraaclassifier.herokuapp.com/)
+
+***
