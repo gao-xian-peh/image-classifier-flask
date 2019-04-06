@@ -11,5 +11,4 @@ Basic Web User Interface:
  [![Alt text](https://raw.githubusercontent.com/gao-xian-peh/gao-xian-peh.github.io/master/assets/flask_image.png)](https://image-classifier-flask.herokuapp.com)
  
  Output: 
- 
  [![Alt text](https://raw.githubusercontent.com/gao-xian-peh/gao-xian-peh.github.io/master/assets/flask_image_output.png)](https://image-classifier-flask.herokuapp.com)
